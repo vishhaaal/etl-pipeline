@@ -1,3 +1,2 @@
-sales.csv
-customer.csv
-data.csv
+#ignored files
+*.csv
